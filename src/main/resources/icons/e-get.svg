@@ -1,0 +1,8 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" opacity="0.8" stroke-width="0" id="svg_1" d="m8.16251,15.1506c-4.24989,0 -7.69231,-3.24848 -7.69231,-7.25894c0,-4.01046 3.44241,-7.25894 7.69231,-7.25894c4.24989,0 7.69231,3.24848 7.69231,7.25894c0,4.01046 -3.44241,7.25894 -7.69231,7.25894z" fill="#62b543"/>
+  <text transform="matrix(1.00314 0 0 0.796511 -0.890995 3.11019)" stroke="#000" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="12" id="svg_2" y="9.80859" x="5.47961" stroke-width="0" fill="#050404">G</text>
+ </g>
+</svg>
